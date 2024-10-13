@@ -1,9 +1,1 @@
-[
-    {
-        "id": "c8f0e750-0166-47ba-b8f9-b2ad8e4a58d0",
-        "title": "Peaky Blinders",
-        "year": "2024",
-        "genre": "Crime, Leadership",
-        "rating": "7.9"
-    }
-]
+[{"id":"c8f0e750-0166-47ba-b8f9-b2ad8e4a58d0","title":"Peaky Blinders","year":"2024","genre":"Crime, Leadership","rating":"7.9"},{"title":"Friends 1","year":"2024","genre":"Friendship, Love","rating":"7.2","id":"fb8bcb37-2e52-4ed9-b091-b185dc679dfe"},{"title":"Virgin River","year":"2024","genre":"Adventure, Love, Confusion","rating":"7.2","id":"0935c448-481a-4211-9275-44351a0bbd84"}]
