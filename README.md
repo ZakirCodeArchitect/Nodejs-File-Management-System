@@ -34,13 +34,13 @@ A robust Node.js application for managing files with features like creating, app
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/FileMaster-Pro.git
+    git clone https://github.com/ZakirCodeArchitect/Nodejs-File-Management-System.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd FileMaster-Pro
+    cd Nodejs-File-Management-System-Pro
     ```
 
 3. Install dependencies:
